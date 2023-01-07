@@ -27,6 +27,6 @@ namespace Nop.Web.Areas.Admin.Models.Settings
         [NopResourceDisplayName("Admin.Configuration.AppSettings.DistributedCache.TableName")]
         public string TableName { get; set; } = "DistributedCache";
 
-        #endregion
+        #endregion 
     }
 }
